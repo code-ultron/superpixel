@@ -29,7 +29,7 @@ celery==4.2.2
 certifi==2021.10.8
 cffi==1.15.0
 charset-normalizer==2.0.7
-click==8.0.3
+#click==8.0.3
 cryptography==35.0.0
 cycler==0.11.0
 Cython==0.29.24
@@ -40,7 +40,7 @@ dnspython==1.16.0
 docutils==0.17.1
 
 
-flake8==4.0.1
+#flake8==4.0.1
 Flask==1.0.2
 Flask-Cors==3.0.7
 Flask-Login==0.4.1
@@ -127,7 +127,7 @@ pyasn1-modules==0.2.8
 pycocotools==2.0.2
 pycodestyle==2.8.0
 pycparser==2.21
-pyflakes==2.4.0
+#pyflakes==2.4.0
 Pygments==2.10.0
 pymongo==3.12.1
 pyOpenSSL==21.0.0
